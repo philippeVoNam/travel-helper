@@ -18,6 +18,7 @@ clothingTemplate = {
     "pyjama shirts": 0.65,
     "jacket": 0,
     "masks": 2,
+    "hat": 1,
 }
 
 hygiene = {
@@ -30,6 +31,7 @@ hygiene = {
     "deodorant": 1,
     "q-tip": 1,
     "ear scraper": 1,
+    "sun-screen": 1,
 }
 
 electronics = {
@@ -39,6 +41,8 @@ electronics = {
     "phone charger": 1,
     "kindle": 1,
     "kindle charger": 1,
+    "nintendo-switch": 1,
+    "nintendo-switch charger": 1,
     "earphones": 1,
 }
 
@@ -56,6 +60,7 @@ essentials = {
     "passport": 1,
     "water bottle (no liquid)": 1,
     "casual bag": 1,
+    "contact lens": 1,
 }
 
 # functions
